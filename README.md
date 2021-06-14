@@ -8,4 +8,4 @@ Review: Procedural block and interface.
 Object Oriented Programming (OOP) features and concepts.
 Randomization
 Constraints block and System Verilog assertion.
-Basics of functional coverage and coverage bins.
+Basics of functional coverage and coverage bins
